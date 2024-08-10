@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "524713264858",
+    "project_id": "internee-app-32342",
+    "storage_bucket": "internee-app-32342.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524713264858:android:ba8ae6cb0792efbdd747e3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_vs_internee_app_with_firebase_appicon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMdt6_IawfbbWsrIYhDW3x_ROpOOxr8EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
